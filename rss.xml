@@ -4,7 +4,7 @@
         <description><![CDATA[Rick Begneaud]]></description>
         <link>https://thegrid.ai/rick-begneaud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 21:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 21:30:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rick-begneaud/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/rick-begneaud/158d728f-f920-4e29-951e-3f4a998626ec/index.html</link>
             <guid isPermaLink="false">158d728f-f920-4e29-951e-3f4a998626ec</guid>
             <pubDate>Thu, 14 Apr 2016 21:22:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>ABOUT </p></article>]]></description>
-            <link>https://thegrid.ai/rick-begneaud/about/index.html</link>
-            <guid isPermaLink="false">dc60a4e3-b956-4a6a-b5d6-f680c8e4fe2d</guid>
-            <pubDate>Thu, 14 Apr 2016 21:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
