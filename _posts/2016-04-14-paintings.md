@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-14T22:38:26.330Z'
-dateModified: '2016-04-14T22:37:52.464Z'
-title: Paintings
+datePublished: '2016-04-14T22:39:21.802Z'
+dateModified: '2016-04-14T22:38:37.103Z'
+title: PAINTINGS
 author: []
 authors: []
 publisher:
