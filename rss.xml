@@ -4,21 +4,21 @@
         <description><![CDATA[Rick Begneaud]]></description>
         <link>https://thegrid.ai/rick-begneaud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 20:45:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rick-begneaud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>ABOUT </p></article>]]></description>
+            <link>https://thegrid.ai/rick-begneaud/about/index.html</link>
+            <guid isPermaLink="false">dc60a4e3-b956-4a6a-b5d6-f680c8e4fe2d</guid>
+            <pubDate>Thu, 14 Apr 2016 20:45:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><p>rickbegneaud@mac.com                                            New York</p></article>]]></description>
             <link>https://thegrid.ai/rick-begneaud/contact/index.html</link>
             <guid isPermaLink="false">00083c0d-6f55-45c5-8449-ad9b8ec67e72</guid>
             <pubDate>Thu, 14 Apr 2016 20:40:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ABOUT]]></title>
-            <description><![CDATA[<article><h1>ABOUT</h1><p>ABOUT </p></article>]]></description>
-            <link>https://thegrid.ai/rick-begneaud/about/index.html</link>
-            <guid isPermaLink="false">dc60a4e3-b956-4a6a-b5d6-f680c8e4fe2d</guid>
-            <pubDate>Thu, 14 Apr 2016 20:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
