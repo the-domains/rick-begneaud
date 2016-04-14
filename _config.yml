@@ -1,7 +1,7 @@
 name: Rick Begneaud
 favicon: null
 layout_spectrum: 0.24787
-typography_spectrum: 0.18707
+typography_spectrum: 0.12269
 title: Rick Begneaud
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.41782286018133163
   lightness: 0.2420542137697339
   saturation: 0.27953060530126095
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
