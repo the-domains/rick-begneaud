@@ -1,0 +1,28 @@
+name: Rick Begneaud
+favicon: null
+layout_spectrum: 0.11913190502673388
+typography_spectrum: 0.06053631333634257
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.41782286018133163
+  lightness: 0.2420542137697339
+  saturation: 0.27953060530126095
+  rhythmicContrast: 0.9159853074233979
+purpose: []
